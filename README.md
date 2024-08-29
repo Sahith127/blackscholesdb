@@ -1,10 +1,10 @@
-# :earth_americas: GDP dashboard template
+# 📈 Black-Scholes Dashboard
 
-A simple Streamlit app showing the GDP of different countries in the world.
+A simple Streamlit app providing an explainer and Interactive Dashboard of the Black-Scholes Equation and Formula.
+Visit [https://blackscholesdb.streamlit.app](url) to view the app on your browser
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
 
-### How to run it on your own machine
+### How to run it locally
 
 1. Install the requirements
 
