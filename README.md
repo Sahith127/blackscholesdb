@@ -1,7 +1,7 @@
 # 📈 Black-Scholes Dashboard
 
 A simple Streamlit app providing an explainer and Interactive Dashboard of the Black-Scholes Equation and Formula.
-Visit [https://blackscholesdb.streamlit.app](url) to view the app on your browser
+Visit [https://blackscholesdb.streamlit.app](url) to view the app on your browser.
 
 
 ### How to run it locally
