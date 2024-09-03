@@ -40,11 +40,11 @@ col1, col2 = st.columns(2, gap = 'large')
 with col1:
     st.header('Enter input parameters')
     # input parameters
-    S0 = st.number_input(label="Price of the underlying asset", value = 8)
-    K = st.number_input(label="Strike price", value = 9)
-    r = st.number_input(label="Interest rate", value = 0.01)
-    T = st.number_input(label="Time to option expiration", value = 3/12)
-    sigma = st.number_input(label="Volatility", value = 0.2)
+    S0 = st.number_input(label="Price of the underlying asset (S_0)", value = 8)
+    K = st.number_input(label="Strike price (K)", value = 9)
+    r = st.number_input(label="Interest rate (r)", value = 0.01)
+    T = st.number_input(label="Time to option expiration (T)", value = 3/12)
+    sigma = st.number_input(label="Volatility (σ)", value = 0.2)
     option_type = st.selectbox(
         'Option type',
         ('call', 'put'))
